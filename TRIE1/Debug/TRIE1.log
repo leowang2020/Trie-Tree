@@ -1,0 +1,16 @@
+﻿Build started 4/13/2015 7:39:26 PM.
+     1>Project "C:\Users\Jun\Desktop\CS exercises\TRIE_TREE\TRIE1\TRIE1.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\jun\desktop\cs exercises\trie_tree\trie1\source.cpp(70): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jun\desktop\cs exercises\trie_tree\trie1\source.cpp(144): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jun\desktop\cs exercises\trie_tree\trie1\source.cpp(169): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\jun\desktop\cs exercises\trie_tree\trie1\source.cpp(152): error C4703: potentially uninitialized local pointer variable 'parent' used
+     1>c:\users\jun\desktop\cs exercises\trie_tree\trie1\source.cpp(164): error C4703: potentially uninitialized local pointer variable 'oldChildren' used
+     1>c:\users\jun\desktop\cs exercises\trie_tree\trie1\source.cpp(165): error C4703: potentially uninitialized local pointer variable 'newWord' used
+     1>Done Building Project "C:\Users\Jun\Desktop\CS exercises\TRIE_TREE\TRIE1\TRIE1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.06

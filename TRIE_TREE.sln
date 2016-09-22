@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TRIE_TREE", "TRIE_TREE\TRIE_TREE.vcxproj", "{3A4F9B92-FC9F-458D-9819-A8F9FABD41E0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "trie", "trie\trie.vcxproj", "{0ABB688A-F39F-4E44-86C8-1B448E6C43C9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TRIE1", "TRIE1\TRIE1.vcxproj", "{36E45FC7-B8A6-428C-95E5-0306A3338B71}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FiboHeap", "..\Heap\FiboHeap\FiboHeap.vcxproj", "{B773F75C-F0A3-49D3-8074-4EC332A65088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A4F9B92-FC9F-458D-9819-A8F9FABD41E0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3A4F9B92-FC9F-458D-9819-A8F9FABD41E0}.Debug|Win32.Build.0 = Debug|Win32
+		{3A4F9B92-FC9F-458D-9819-A8F9FABD41E0}.Release|Win32.ActiveCfg = Release|Win32
+		{3A4F9B92-FC9F-458D-9819-A8F9FABD41E0}.Release|Win32.Build.0 = Release|Win32
+		{0ABB688A-F39F-4E44-86C8-1B448E6C43C9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0ABB688A-F39F-4E44-86C8-1B448E6C43C9}.Debug|Win32.Build.0 = Debug|Win32
+		{0ABB688A-F39F-4E44-86C8-1B448E6C43C9}.Release|Win32.ActiveCfg = Release|Win32
+		{0ABB688A-F39F-4E44-86C8-1B448E6C43C9}.Release|Win32.Build.0 = Release|Win32
+		{36E45FC7-B8A6-428C-95E5-0306A3338B71}.Debug|Win32.ActiveCfg = Debug|Win32
+		{36E45FC7-B8A6-428C-95E5-0306A3338B71}.Debug|Win32.Build.0 = Debug|Win32
+		{36E45FC7-B8A6-428C-95E5-0306A3338B71}.Release|Win32.ActiveCfg = Release|Win32
+		{36E45FC7-B8A6-428C-95E5-0306A3338B71}.Release|Win32.Build.0 = Release|Win32
+		{B773F75C-F0A3-49D3-8074-4EC332A65088}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B773F75C-F0A3-49D3-8074-4EC332A65088}.Debug|Win32.Build.0 = Debug|Win32
+		{B773F75C-F0A3-49D3-8074-4EC332A65088}.Release|Win32.ActiveCfg = Release|Win32
+		{B773F75C-F0A3-49D3-8074-4EC332A65088}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
